@@ -103,10 +103,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial (working) Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2715" y="289" width="860" height="813" key="CommitChangelistDialog2" timestamp="1577828787974">
+    <state x="2715" y="289" width="860" height="813" key="CommitChangelistDialog2" timestamp="1577828829635">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2715" y="289" width="860" height="813" key="CommitChangelistDialog2/1920.0.2560.1440/0.960.1920.1080@1920.0.2560.1440" timestamp="1577828787974" />
+    <state x="2715" y="289" width="860" height="813" key="CommitChangelistDialog2/1920.0.2560.1440/0.960.1920.1080@1920.0.2560.1440" timestamp="1577828829635" />
     <state x="2919" y="424" width="452" height="543" key="FileChooserDialogImpl" timestamp="1577826313644">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
@@ -127,5 +127,9 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state width="1439" height="275" key="GridCell.Tab.0.right/1920.0.2560.1440/0.960.1920.1080@1920.0.2560.1440" timestamp="1577828504137" />
+    <state x="2813" y="403" width="672" height="678" key="search.everywhere.popup" timestamp="1577829004634">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2813" y="403" width="672" height="678" key="search.everywhere.popup/1920.0.2560.1440/0.960.1920.1080@1920.0.2560.1440" timestamp="1577829004634" />
   </component>
 </project>
